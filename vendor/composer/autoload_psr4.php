@@ -6,7 +6,6 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'kornrunner\\' => array($vendorDir . '/kornrunner/keccak/src'),
     'dekor\\' => array($vendorDir . '/dekor/php-array-table/src'),
     'Symfony\\Polyfill\\Mbstring\\' => array($vendorDir . '/symfony/polyfill-mbstring'),
 );

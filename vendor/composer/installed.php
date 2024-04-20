@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => '__root__',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '1083968f21d331f8f236575f23f1118fbc306af1',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         '__root__' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '1083968f21d331f8f236575f23f1118fbc306af1',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -25,15 +25,6 @@
             'reference' => 'ca40b21ba84eee6a9658a33fc5f897d76baaf8e5',
             'type' => 'library',
             'install_path' => __DIR__ . '/../dekor/php-array-table',
-            'aliases' => array(),
-            'dev_requirement' => false,
-        ),
-        'kornrunner/keccak' => array(
-            'pretty_version' => '1.1.0',
-            'version' => '1.1.0.0',
-            'reference' => '433749d28e117fb97baf9f2631b92b5d9ab3c890',
-            'type' => 'library',
-            'install_path' => __DIR__ . '/../kornrunner/keccak',
             'aliases' => array(),
             'dev_requirement' => false,
         ),

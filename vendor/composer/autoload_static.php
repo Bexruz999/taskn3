@@ -11,10 +11,6 @@ class ComposerStaticInitd2d7253ce6f2db669c6a3228a88d34f7
     );
 
     public static $prefixLengthsPsr4 = array (
-        'k' => 
-        array (
-            'kornrunner\\' => 11,
-        ),
         'd' => 
         array (
             'dekor\\' => 6,
@@ -26,10 +22,6 @@ class ComposerStaticInitd2d7253ce6f2db669c6a3228a88d34f7
     );
 
     public static $prefixDirsPsr4 = array (
-        'kornrunner\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/kornrunner/keccak/src',
-        ),
         'dekor\\' => 
         array (
             0 => __DIR__ . '/..' . '/dekor/php-array-table/src',

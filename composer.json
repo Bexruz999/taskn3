@@ -1,6 +1,5 @@
 {
     "require": {
-        "kornrunner/keccak": "^1.1",
         "dekor/php-array-table": "^2.0",
       "ext-readline": "*"
     }
